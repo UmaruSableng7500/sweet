@@ -11,6 +11,7 @@ git clone https://gitlab.com/NoPrincessHere/proprietary_vendor_xiaomi_sweet.git 
 
 # dolby
 git clone https://github.com/sweet-stuffs/proprietary_vendor_sony_dolby.git vendor/sony/dolby
+git clone https://github.com/sweet-stuffs/android_packages_apps_LunarisDolby.git packages/apps/LunarisDolby
 
 # kernel sm6150
 git clone https://github.com/PixelOS-Devices/android_kernel_xiaomi_sm6150.git kernel/xiaomi/sm6150
