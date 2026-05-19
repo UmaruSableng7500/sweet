@@ -18,3 +18,6 @@ git clone https://github.com/PixelOS-Devices/android_kernel_xiaomi_sm6150.git ke
 
 # hardware xiaomi
 git clone https://github.com/RiteshSahany/hardware_xiaomi.git hardware/xiaomi
+
+# GameBar
+git clone https://github.com/putraaxzy/packages_apps_GameBar packages/apps/GameBar
