@@ -13,6 +13,9 @@ $(call inherit-product-if-exists, vendor/sony/dolby/sonydolby.mk)
 # MiuiCamera
 $(call inherit-product-if-exists, device/xiaomi/miuicamera-sweet/device.mk)
 
+# XiaomiParts
+$(call inherit-product-if-exists, packages/apps/XiaomiParts/parts.mk)
+
 # LunarisDolby
 PRODUCT_SOONG_NAMESPACES += \
     packages/apps/LunarisDolby
